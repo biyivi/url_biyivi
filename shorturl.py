@@ -81,9 +81,7 @@ print(Fore.LIGHTYELLOW_EX+'''
    ░░▒░ ░ ░   ░▒ ░ ▒░░ ░ ▒  ░
     ░░░ ░ ░   ░░   ░   ░ ░   
       ░        ░         ░  ░
- '''
-+Fore.LIGHTMAGENTA_EX+'''
-by: biyivi
+
 
 ''')
 url = input(Fore.LIGHTGREEN_EX+"[ $ ] Ingresa el link >>> "+Fore.LIGHTRED_EX)
@@ -96,6 +94,8 @@ print(Fore.LIGHTGREEN_EX+"[ $ ] Nuevo link >>> " +Fore.LIGHTBLUE_EX+nurl)
 
 time.sleep(4)
 print(Fore.LIGHTMAGENTA_EX+'''
+
+
 
 coded by:                            
                 )                       
