@@ -6,8 +6,19 @@ Acortador de enlaces hecho con python.
 
 # Instalación
 ## Linux:
+
 $ git clone https://github.com/biyivi/url_biyivi
+
 $ cd url_biyivi
+
 $ python3 shorturl.py
 
+## Termux: 
 
+$ git clone https://github.com/biyivi/url_biyivi
+
+$ cd url_biyivi
+
+$ bash install.sh
+
+$ python3 shorturl.py
