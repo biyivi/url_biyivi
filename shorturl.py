@@ -63,13 +63,14 @@ https://github.com/biyivi
 import time
 import pyshorteners
 import os
+from colorama import Fore,Back,Style
 def clearConsole():
     command = 'clear'
     if os.name in ('nt', 'dos'):  
         command = 'cls'
     os.system(command)
 clearConsole()
-from colorama import Fore,Back,Style
+
 print(Fore.LIGHTYELLOW_EX+'''
     █    ██  ██▀███   ██▓    
     ██  ▓██▒▓██ ▒ ██▒▓██▒    
